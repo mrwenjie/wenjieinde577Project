@@ -10,7 +10,7 @@ The repository is organized into the following structure:
 - `README.md` (Main): Provides an overview of the repository, its purpose, structure, student contact information, and navigation instructions. It highlights the significance of supervised and unsupervised learning techniques in data science and machine learning.
 
 - `supervised_learning/`: Contains subdirectories for various supervised learning algorithms, including:
-  - [The Perceptron](Supervised Learning/Lecture 3 Perceptron/Single Neuron Perceptron.ipynb)
+  - [The Perceptron]("Supervised Learning/Lecture 3 Perceptron/Single Neuron Perceptron.ipynb")
   - [Linear Regression with Gradient Descent](Supervised Learning/Lecture 4 Gradient Descent/Lecture 4.ipynb)
   - [Logistic Regression](Supervised Learning/Lecture 5/Single Neuron Logistic Regression.ipynb)
   - [Neural Networks](Supervised Learning/Lecture 6/Copy_of_Neuro_Network.ipynb)
@@ -48,4 +48,4 @@ By exploring both supervised and unsupervised learning algorithms, this project 
 
 For more information about the specific algorithms and their implementations, please refer to the respective subdirectories within this repository.
 
-![A Contemplating AI robot](Image/AI%20Image.webp)
+![A Contemplating AI robot]("Image/AI%20Image.webp")
