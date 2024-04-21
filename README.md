@@ -1,6 +1,9 @@
 # INDE 577 - Final Project
 ## Data Science and Machine Learning
 
+
+![A Contemplating AI robot](Image/AI%20Image.webp)
+
 This repository showcases a comprehensive understanding and practical application of data science and machine learning concepts, focusing on both supervised and unsupervised learning algorithms. The project aims to demonstrate theoretical explanations and practical implementations of various algorithms through a well-structured GitHub repository.
 
 ### Repository Structure
@@ -47,4 +50,3 @@ By exploring both supervised and unsupervised learning algorithms, this project 
 
 For more information about the specific algorithms and their implementations, please refer to the respective subdirectories within this repository.
 
-![A Contemplating AI robot](Image/AI%20Image.webp)
