@@ -10,19 +10,20 @@ The repository is organized into the following structure:
 - `README.md` (Main): Provides an overview of the repository, its purpose, structure, student contact information, and navigation instructions. It highlights the significance of supervised and unsupervised learning techniques in data science and machine learning.
 
 - `supervised_learning/`: Contains subdirectories for various supervised learning algorithms, including:
-  - The Perceptron
-  - Gradient Descent
-  - Linear Regression
-  - Logistic Regression
-  - Neural Networks
-  - K-Nearest Neighbors (KNN)
-  - Decision Trees
-  - Ensemble Methods
+  - [The Perceptron](Supervised Learning/Lecture 3 Perceptron/Single Neuron Perceptron.ipynb)
+  - [Linear Regression with Gradient Descent](Supervised Learning/Lecture 4 Gradient Descent/Lecture 4.ipynb)
+  - [Logistic Regression](Supervised Learning/Lecture 5/Single Neuron Logistic Regression.ipynb)
+  - [Neural Networks](Supervised Learning/Lecture 6/Copy_of_Neuro_Network.ipynb)
+  - [K-Nearest Neighbors (KNN)](Supervised Learning/Lecture 7 KNN/Lecture 7 KNN.ipynb)
+  - [Decision Trees](Supervised Learning/Lecture 8 Decision Tree/Decision Tree.ipynb)
+  - [Ensemble Methods](Supervised Learning/Lecture 9 Ensemble method/9.1 Lecture 9 Ensemble.ipynb)
+  - [Ensemble Boosting](Supervised Learning/Lecture 9 Ensemble method/9.2 Lecture 9 Ensemble Boosting.ipynb)
 
 - `unsupervised_learning/`: Contains subdirectories for unsupervised learning algorithms, such as 
-  - Principle Component Analysis (PCA)
-  - K-Means
-  - DBSCAN
+  - [Principle Component Analysis (PCA)](Unsupervised Learning/Lecture 10 K Cluster/1. PCA.ipynb)
+  - [K-Means](Unsupervised Learning/Lecture 10 K Cluster/2. K Cluster.ipynb)
+  - [DBSCAN](Unsupervised Learning/Lecture 10 K Cluster/3. DBSCAN.ipynb)
+
 
 Each algorithm subdirectory includes:
 - `README.md`: A detailed description of the algorithm, its theoretical foundation, applications, and any other relevant information.
