@@ -19,7 +19,10 @@ The repository is organized into the following structure:
   - Decision Trees
   - Ensemble Methods
 
-- `unsupervised_learning/`: Contains subdirectories for unsupervised learning algorithms, such as K-Means, PCA, and DBSCAN.
+- `unsupervised_learning/`: Contains subdirectories for unsupervised learning algorithms, such as 
+  - Principle Component Analysis (PCA)
+  - K-Means
+  - DBSCAN
 
 Each algorithm subdirectory includes:
 - `README.md`: A detailed description of the algorithm, its theoretical foundation, applications, and any other relevant information.
@@ -43,3 +46,5 @@ By exploring both supervised and unsupervised learning algorithms, this project 
 - University: the University of Houston
 
 For more information about the specific algorithms and their implementations, please refer to the respective subdirectories within this repository.
+
+![A Contemplating AI robot](Image/AI%20Image.webp)
